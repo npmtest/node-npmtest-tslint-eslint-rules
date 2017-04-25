@@ -1,0 +1,42 @@
+<svg height="622" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="622" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-25 08:18:48 +0000   473908 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 08:18:48 +0000    15388 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 08:18:48 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 08:18:48 +0000    40285 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 08:18:48 +0000    23280 bytes  dist/rules/arrayBracketSpacingRule.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 08:18:48 +0000     5766 bytes  dist/rules/blockSpacingRule.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 08:18:48 +0000    16557 bytes  dist/rules/braceStyleRule.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 08:18:48 +0000    17399 bytes  dist/rules/handleCallbackErrRule.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 08:18:48 +0000     8533 bytes  dist/rules/noConstantConditionRule.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 08:18:48 +0000     4498 bytes  dist/rules/noControlRegexRule.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 08:18:48 +0000     3510 bytes  dist/rules/noDuplicateCaseRule.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 08:18:48 +0000     2833 bytes  dist/rules/noEmptyCharacterClassRule.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 08:18:48 +0000     4923 bytes  dist/rules/noExAssignRule.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 08:18:48 +0000     8603 bytes  dist/rules/noExtraBooleanCastRule.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 08:18:48 +0000     6118 bytes  dist/rules/noExtraSemiRule.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 08:18:48 +0000     5848 bytes  dist/rules/noInnerDeclarationsRule.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 08:18:48 +0000     4240 bytes  dist/rules/noInvalidRegexpRule.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 08:18:48 +0000     6453 bytes  dist/rules/noIrregularWhitespaceRule.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 08:18:48 +0000    10762 bytes  dist/rules/noMultiSpacesRule.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 08:18:48 +0000     2717 bytes  dist/rules/noRegexSpacesRule.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 08:18:48 +0000     2970 bytes  dist/rules/noSparseArraysRule.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 08:18:48 +0000     9066 bytes  dist/rules/noUnexpectedMultilineRule.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 08:18:48 +0000     7387 bytes  dist/rules/objectCurlySpacingRule.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 08:18:48 +0000    21146 bytes  dist/rules/sortImportsRule.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 08:18:48 +0000    21909 bytes  dist/rules/spaceInParensRule.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 08:18:48 +0000    11338 bytes  dist/rules/terArrowBodyStyleRule.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 08:18:48 +0000    12082 bytes  dist/rules/terArrowParensRule.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 08:18:48 +0000     9657 bytes  dist/rules/terArrowSpacingRule.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 08:18:48 +0000    91745 bytes  dist/rules/terIndentRule.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 08:18:48 +0000    32551 bytes  dist/rules/terMaxLenRule.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-25 08:18:48 +0000    18404 bytes  dist/rules/terPreferArrowCallbackRule.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-25 08:18:48 +0000     3431 bytes  dist/rules/useIsnanRule.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-25 08:18:48 +0000    34933 bytes  dist/rules/validJsdocRule.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-25 08:18:48 +0000     4469 bytes  dist/rules/validTypeofRule.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-25 08:18:48 +0000      801 bytes  dist/support/token.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-25 08:18:48 +0000      168 bytes  index.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-25 08:18:48 +0000     3060 bytes  package.json</tspan>
+</text>
+</svg>
